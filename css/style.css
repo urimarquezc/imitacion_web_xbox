@@ -1,7 +1,6 @@
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0%;
-    overflow:-moz-hidden-unscrollable;
 }
 :root{
     --Warm-Black: #201E1C;
@@ -21,7 +20,7 @@ li{
 .header{
     background:#282623;
     height: 100px;
-    width: 1351px;
+    width: 1345px;
     border: #5AB300 solid ;
 }
 
