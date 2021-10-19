@@ -13,23 +13,15 @@
             <a href=""><img class="header__img" src="./css/img/xbox_logo.png" alt=""></a>
         </div>
         <div class="header__list">
-            <a href="#" class="header__item"><li class="header__word">Servicios</li></a>
-            <a href="#" class="header__item"><li class="header__word">Juegos</li></a>
-            <a href="#" class="header__item"><li class="header__word">Contacto</li></a>
-            <a href="#" class="header__item"><li class="header__word">Suscripciones</li></a>
-            <a href="#" class="header__item"><li class="header__word">Consolas</li></a>
+            <a href="#" class="header__item"><li class="header__word">Ayuda</li></a>
+            <a href="#" class="header__item"><li class="header__word">Contactanos</li></a>
+            <a href="#" class="header__item"><li class="header__word">Mas</li></a>
             <a href="#" class="header__item"><li class="header__word">Inicio</li></a>
         </div>
     </header>
 
-
-    <section class="section">
+    <section>
         <section class="gpass">
-
-            <div>
-                <img class="gpass__img" src="./css/img/Gpass.jpg" alt="" height="300px">
-            </div>
-
             <div class="gpass__content">
                 <h2 class="gpass__title">
                     Xbox Game Pass
@@ -47,17 +39,25 @@
                 <p class="gpass__text2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, excepturi corporis 
                 itaque accusamus dignissimos iure maxime iste guo porro ipsa.</p>
             </div>
-
+            
+                <img class="gpass__img" src="./css/img/Gpass.jpg" alt="" height="422px">
         </section>
 
-        <section class="games">
+        <section>
             <div>
-                <div class="games__title">
-                    <h2 class="games__title-text">DISFRUTA DE MAS DE 100 JUEGOS DE ALTA CALIDAD</h2>
-                </div>
-                <div class="games__img">
-                    <img src="./css/img/halo.jpeg" alt="" height="759px">
-                </div>
+
+            </div>
+        </section>
+
+        <section>
+            <div>
+
+            </div>
+        </section>
+
+        <section>
+            <div>
+
             </div>
         </section>
 
